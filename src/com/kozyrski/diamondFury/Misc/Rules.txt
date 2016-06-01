@@ -1,0 +1,9 @@
+
+
+
+You need to get as many diamonds as you can
+before ghosts will catch you.
+After collecting diamond you will freeze
+ghosts for 3 seconds - try to use this time
+to get more diamonds!
+Have fun and Good Luck!
